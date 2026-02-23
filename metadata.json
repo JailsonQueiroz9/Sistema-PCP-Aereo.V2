@@ -1,0 +1,7 @@
+{
+  "name": "Sistema de Rastreamento AWB",
+  "description": "Sistema completo de rastreamento de cargas aéreas (AWB) com CRUD, dashboard analítico e integração simulada com Google Sheets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
